@@ -5,7 +5,7 @@
         <lastname>Brown</lastname>
         <occupation>programmer</occupation>
     </Asignatura>
-    <uAsignatura id="2">
+    <Asignatura id="2">
         <firstname>Martin</firstname>
         <lastname>Smith</lastname>
         <occupation>accountant</occupation>
