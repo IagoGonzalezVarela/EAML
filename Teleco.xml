@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Teleco>
+    <Asignatura id="1">
+        <firstname>Peter</firstname>
+        <lastname>Brown</lastname>
+        <occupation>programmer</occupation>
+    </Asignatura>
+    <uAsignatura id="2">
+        <firstname>Martin</firstname>
+        <lastname>Smith</lastname>
+        <occupation>accountant</occupation>
+    </Asignatura>
+    <Asignatura id="3">
+        <firstname>Lucy</firstname>
+        <lastname>Gordon</lastname>
+        <occupation>teacher</occupation>
+    </Asignatura>    
+</Teleco>
